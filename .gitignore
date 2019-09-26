@@ -18,7 +18,6 @@
 /.web-server-pid
 
 ###< symfony/web-server-bundle ###
-
 .env
 .env.test
-symfony.lcok
+symfony.lock
